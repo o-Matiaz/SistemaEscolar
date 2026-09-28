@@ -3,3 +3,7 @@ cadastrarAluno()
 removerAluno()
 
 cadastrarFuncionario()
+
+//nova função:
+
+removerFuncionario()
