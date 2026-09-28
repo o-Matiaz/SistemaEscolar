@@ -1,0 +1,5 @@
+cadastrarAluno()
+
+removerAluno()
+
+cadastrarFuncionario()
